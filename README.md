@@ -1,6 +1,6 @@
 # José Naim Tool
 
-Python app wrapped around Akamai PowerShell module, for easily search your Akamai accounts, retrieve production hostnames, and export the results to a CSV file.
+Python app wrapped around Akamai PowerShell module, to easily search your Akamai accounts, retrieve production hostnames, and export the results to a CSV file.
 
 
 ## Prerequisites
