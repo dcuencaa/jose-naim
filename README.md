@@ -27,4 +27,4 @@ This script is built entirely using Python's standard library. There are no exte
 2. Open your terminal and navigate to the folder containing `josenaim.py`.
 3. Run the script:
    ```bash
-   python akamai_app.py
+   python akhosts.py
